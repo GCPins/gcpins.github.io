@@ -11,4 +11,4 @@ redirect_from:
 
 You can find my CV/resume [here](/files/resume.pdf).
 
-Alternative Link to Download: [Google Drive](https://drive.google.com/file/d/1K5iK9uJcatxZdca_CdI7s7pla6jzYbzR/view?usp=sharing)
+Alternative Link to Download: [Google Drive](https://drive.google.com/file/d/1_X8RNhEKV4vPz1T4Z5UQRJxCQzDEAGwI/view?usp=sharing)
