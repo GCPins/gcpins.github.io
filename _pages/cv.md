@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV/resume [here](/files/resume.pdf).
+For the most up-to-date version of my resume, you can view and download my resume on [rxresu.me](https://rxresu.me/gcpins/managerial-straight-spoonbill)
 
-Alternative Link to Download: [Google Drive](https://drive.google.com/file/d/1_X8RNhEKV4vPz1T4Z5UQRJxCQzDEAGwI/view?usp=sharing)
+You can also find my CV/resume [here](/files/resume.pdf).
+
+Alternative download link: [Google Drive](https://drive.google.com/file/d/1_X8RNhEKV4vPz1T4Z5UQRJxCQzDEAGwI/view?usp=sharing)
