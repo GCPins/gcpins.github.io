@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the most up-to-date version of my resume, you can view and download my resume on [rxresu.me](https://rxresu.me/gcpins/resume)
+**For the most up-to-date version of my resume, you can view and download my resume on [rxresu.me](https://rxresu.me/gcpins/resume)**
 
 You can also find my CV/resume [here](/files/resume.pdf).
 
