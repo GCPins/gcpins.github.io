@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "George Atkinson"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Senior majoring in Computer Science @ Clemson University (Honors College)"
   location         : "South Carolina, USA"
   employer         : "Clemson University"
   uri              : "https://me.gcpins.dev" # URL
-  email            : "george.atkinson04@gmail.com" 
+  email            : "hireme@gsatkin.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
