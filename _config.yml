@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "George Atkinson"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : #"he/him" # example: "she/her"  
   bio              : "Senior majoring in Computer Science @ Clemson University (Honors College)"
   location         : "South Carolina, USA"
   employer         : "Clemson University"
